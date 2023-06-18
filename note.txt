@@ -1,0 +1,4 @@
+git add *.c *.h *.s *.lib *.uvprojx
+git add note.txt
+git add *.bin
+
